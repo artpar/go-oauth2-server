@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"github.com/RichardKnop/go-fixtures"
+	"github.com/artpar/go-fixtures"
 )
 
 // LoadData loads fixtures

@@ -3,8 +3,8 @@ package database
 import (
 	"os"
 
-	"github.com/RichardKnop/go-fixtures"
-	"github.com/RichardKnop/go-oauth2-server/migrations"
+	"github.com/artpar/go-fixtures"
+	"github.com/artpar/go-oauth2-server/migrations"
 	"github.com/jinzhu/gorm"
 	// sqlite driver
 	_ "github.com/mattn/go-sqlite3"

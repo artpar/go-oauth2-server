@@ -3,7 +3,7 @@ package oauth
 import (
 	"net/http"
 
-	"github.com/RichardKnop/go-oauth2-server/response"
+	"github.com/artpar/go-oauth2-server/response"
 )
 
 func (s *Service) clientCredentialsGrant(w http.ResponseWriter, r *http.Request, client *Client) {

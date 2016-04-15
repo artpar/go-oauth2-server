@@ -1,7 +1,7 @@
 package health
 
 import (
-	"github.com/RichardKnop/go-oauth2-server/routes"
+	"github.com/artpar/go-oauth2-server/routes"
 	"github.com/gorilla/mux"
 )
 

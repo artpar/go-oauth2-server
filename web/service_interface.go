@@ -3,8 +3,8 @@ package web
 import (
 	"net/http"
 
-	"github.com/RichardKnop/go-oauth2-server/config"
-	"github.com/RichardKnop/go-oauth2-server/oauth"
+	"github.com/artpar/go-oauth2-server/config"
+	"github.com/artpar/go-oauth2-server/oauth"
 )
 
 // ServiceInterface defines exported methods

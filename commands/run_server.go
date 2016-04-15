@@ -3,9 +3,9 @@ package commands
 import (
 	"net/http"
 
-	"github.com/RichardKnop/go-oauth2-server/health"
-	"github.com/RichardKnop/go-oauth2-server/oauth"
-	"github.com/RichardKnop/go-oauth2-server/web"
+	"github.com/artpar/go-oauth2-server/health"
+	"github.com/artpar/go-oauth2-server/oauth"
+	"github.com/artpar/go-oauth2-server/web"
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
 	"github.com/phyber/negroni-gzip/gzip"

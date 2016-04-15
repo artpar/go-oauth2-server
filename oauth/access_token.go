@@ -3,7 +3,7 @@ package oauth
 import (
 	"time"
 
-	"github.com/RichardKnop/go-oauth2-server/util"
+	"github.com/artpar/go-oauth2-server/util"
 )
 
 // TokenType is default type of generated tokens.

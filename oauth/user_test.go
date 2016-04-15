@@ -3,8 +3,8 @@ package oauth
 import (
 	"github.com/stretchr/testify/assert"
 
-	pass "github.com/RichardKnop/go-oauth2-server/password"
-	"github.com/RichardKnop/go-oauth2-server/util"
+	pass "github.com/artpar/go-oauth2-server/password"
+	"github.com/artpar/go-oauth2-server/util"
 )
 
 func (suite *OauthTestSuite) TestFindUserByUsername() {

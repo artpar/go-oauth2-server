@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"github.com/RichardKnop/go-oauth2-server/migrations"
-	"github.com/RichardKnop/go-oauth2-server/oauth"
+	"github.com/artpar/go-oauth2-server/migrations"
+	"github.com/artpar/go-oauth2-server/oauth"
 )
 
 // Migrate runs database migrations

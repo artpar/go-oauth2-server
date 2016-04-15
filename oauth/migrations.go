@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/RichardKnop/go-oauth2-server/migrations"
+	"github.com/artpar/go-oauth2-server/migrations"
 	"github.com/jinzhu/gorm"
 )
 
